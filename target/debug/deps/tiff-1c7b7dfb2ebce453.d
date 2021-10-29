@@ -1,0 +1,14 @@
+e:\Documents\GitHub\rustypiston\target\debug\deps\tiff-1c7b7dfb2ebce453.rmeta: C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\lib.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\bytecast.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\mod.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\ifd.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\stream.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\mod.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\colortype.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\writer.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\error.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\tags.rs
+
+e:\Documents\GitHub\rustypiston\target\debug\deps\tiff-1c7b7dfb2ebce453.d: C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\lib.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\bytecast.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\mod.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\ifd.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\stream.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\mod.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\colortype.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\writer.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\error.rs C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\tags.rs
+
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\lib.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\bytecast.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\mod.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\ifd.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\decoder\stream.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\mod.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\colortype.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\encoder\writer.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\error.rs:
+C:\Users\jorda\.cargo\registry\src\github.com-1ecc6299db9ec823\tiff-0.6.1\src\tags.rs:
