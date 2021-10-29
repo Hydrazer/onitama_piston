@@ -13,10 +13,11 @@ fn main() {
 
     let assets = find_folder::Search::ParentsThenKids(3, 3)
         .for_folder("assets").unwrap();
-    let rust_logo = assets.join("rust.png");
-    let rust_logo: G2dTexture = Texture::from_path(
+
+    let red_king_image = assets.join("red_king.png");
+    let red_king_image: G2dTexture = Texture::from_path(
             &mut window.create_texture_context(),
-            &rust_logo,
+            &red_king_image,
             Flip::None,
             &TextureSettings::new()
         ).unwrap();
@@ -24,7 +25,7 @@ fn main() {
     while let Some(e) = window.next() {
         window.draw_2d(&e, |c, g, _| {
             clear([1.0; 4], g);
-            image(&rust_logo, c.transform, g);
+            image(&red_king_image, c.transform, g);
         });
     }
 }
